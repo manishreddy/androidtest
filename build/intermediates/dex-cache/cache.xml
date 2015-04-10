@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/manishreddy/AndroidStudioProjects/androidtest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/manishreddy/AndroidStudioProjects/androidtest/app/build/intermediates/pre-dexed/debug/classes-a6f3c080a5122eb3584718f6c2ed203558d5ed13.jar" />
+    </item>
+    <item
+        jar="/Users/manishreddy/AndroidStudioProjects/androidtest/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/manishreddy/AndroidStudioProjects/androidtest/app/build/intermediates/pre-dexed/debug/classes-901159980963a978233ff844e6f2817c6cafec3f.jar" />
+    </item>
+    <item
+        jar="/Users/manishreddy/AndroidStudioProjects/TestApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/manishreddy/AndroidStudioProjects/TestApplication/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-3f7c04d460a394c489865d003d6784b28d551561.jar" />
+    </item>
+    <item
+        jar="/Users/manishreddy/AndroidStudioProjects/TestApplication/app/src/main/libs/Parse-1.9.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1b065010f3c9d441ede9078aca8eabcd1c81e647">
+        <dex dex="/Users/manishreddy/AndroidStudioProjects/TestApplication/app/build/intermediates/pre-dexed/debug/Parse-1.9.1-0cf12ca000944cdb26bf153071a1cdb6fddb437e.jar" />
+    </item>
+    <item
+        jar="/Users/manishreddy/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/manishreddy/AndroidStudioProjects/TestApplication/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-6e1945827a1450a5d67a150c0b263c361f9eefc6.jar" />
+    </item>
+    <item
+        jar="/Users/manishreddy/AndroidStudioProjects/androidtest/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/manishreddy/AndroidStudioProjects/androidtest/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-4eb40e7e1d7fd70d4fa302bbef918f23db751dc8.jar" />
+    </item>
+    <item
+        jar="/Users/manishreddy/AndroidStudioProjects/TestApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/manishreddy/AndroidStudioProjects/TestApplication/app/build/intermediates/pre-dexed/debug/classes-08e67fa830f534ea358883360d6f80cb73edbad9.jar" />
+    </item>
+    <item
+        jar="/Users/manishreddy/AndroidStudioProjects/androidtest/app/src/main/libs/Parse-1.9.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1b065010f3c9d441ede9078aca8eabcd1c81e647">
+        <dex dex="/Users/manishreddy/AndroidStudioProjects/androidtest/app/build/intermediates/pre-dexed/debug/Parse-1.9.1-81d93b5ddc59f1d961f288cf8ec3d50188828dca.jar" />
+    </item>
+    <item
+        jar="/Users/manishreddy/AndroidStudioProjects/TestApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/manishreddy/AndroidStudioProjects/TestApplication/app/build/intermediates/pre-dexed/debug/classes-6c8a404901025f49afd5abba4be8f0b1ce2445a6.jar" />
+    </item>
+
+</items>
